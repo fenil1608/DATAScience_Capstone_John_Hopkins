@@ -29,7 +29,7 @@ The Next Word Predict app is located at:
 The source code files can be found on GitHub:
 
 <ul>
-    <li><a target="_blank" href="https://github.com/oraclejavanet/coursera-data-science-capstone/">https://github.com/oraclejavanet/coursera-data-science-capstone/</a></li>
+    <li><a target="_blank" href="https://github.com/fenil1608/DATAScience_Capstone_John_Hopkins/">Github_Repo</a></li>
 </ul>
 
 Check back regularly as the codebase is continually being updated with
