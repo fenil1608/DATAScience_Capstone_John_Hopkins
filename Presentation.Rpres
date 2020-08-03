@@ -1,7 +1,7 @@
 Next Word Predict
 ========================================================
 author: Fenil Soni
-date: 28 July, 2020
+date: 03 August, 2020
 autosize: true
 transition: rotate
 class: smaller
@@ -96,4 +96,4 @@ next words. Click the image below for a larger view
 of the user interface.
 </small>
 
-<a target="_blank" href="http://www.idevelopment.info/data/DataScience/uploads/next-word-predict-ui-large.png"><img src="images/next-word-predict-ui.png"></a>
+<a target="_blank" href=https://fenil1608.shinyapps.io/DataScience_Capstone_Final/><img src="images/next-word-predict-ui.png"></a>
